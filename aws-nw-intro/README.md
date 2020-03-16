@@ -6,10 +6,9 @@
 
 | 日程 | 章 | 担当 | タイトル | スライドリンク |
 |:---:|:---:|:---:|:---:|:---:|
-| 3/26 | intro | sizu | わかんね | [Slide link]() |
-| 3/26 | 1 | sizu | わかんね | - |
-| 3/26 | 2 | ななちゃん |  | [Slide link]() |
+| 3/26 | 1 | sizu | わかんね | [Slide link]() |
+| 3/26 | 2 | nanasi |  | [Slide link]() |
 
 ## Committee
 - sizu
-- ななちゃん
+- nanasi
