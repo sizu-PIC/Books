@@ -11,4 +11,4 @@
 
 ## Committee
 - sizu
-- nanasi
+- [nanasi](https://github.com/nanasi128)
