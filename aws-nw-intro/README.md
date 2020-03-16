@@ -12,3 +12,4 @@
 ## Committee
 - sizu
 - [nanasi](https://github.com/nanasi128)
+- [shu](https://github.com/shu22203)
