@@ -4,12 +4,13 @@
 
 ## スケジュール
 
-| 日程 | 章 | 担当 | タイトル | スライドリンク |
-|:---:|:---:|:---:|:---:|:---:|
-| 3/26 | 1 | sizu | わかんね | [Slide link]() |
-| 3/26 | 2 | nanasi |  | [Slide link]() |
+| 日程 | 章 | 担当 | タイトル | スライドリンク | Discord URL |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 3/26 | 1 | sizu | わかんね | [Slide link]() |  |
+| 3/26 | 2 | nanasi |  | [Slide link]() |  |
 
 ## Committee
 - sizu
 - [nanasi](https://github.com/nanasi128)
 - [shu](https://github.com/shu22203)
+- [mario](https://github.com/root3103)
