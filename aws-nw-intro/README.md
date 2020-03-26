@@ -8,6 +8,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 | 3/26 | 1 | sizu | AWS でのシステム構築 | [Slide link]() |
 | 3/26 | 2 | nanasi |  | [Slide link]() |
+| 4/11 | 3 | mario |  | [Slide link]() |
+| 4/11 | 4 前半 | nanasi |  | [Slide link]() |
 
 ## Committee
 - sizu
