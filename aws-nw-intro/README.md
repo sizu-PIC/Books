@@ -10,6 +10,8 @@
 | 3/26 | 2 | nanasi |  | [Slide link]() |
 | 4/11 | 3 | mario | EC2インスタンスとIPアドレス| [Slide link](https://github.com/sizu-PIC/Books/blob/master/aws-nw-intro/chapter3/slide.pdf) |
 | 4/11 | 4 前半 | nanasi |  | [Slide link]() |
+| 4/18 | 4 後半 | mario |  | [Slide_link]() |
+| 4/18 | 5 | sizu | セキュリティグループとネットワーク ACL | [Slide_link]() |
 
 ## Committee
 - sizu
