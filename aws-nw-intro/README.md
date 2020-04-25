@@ -12,6 +12,8 @@
 | 4/11 | 4 前半 | nanasi |  | [Slide link]() |
 | 4/18 | 4 後半 | mario |  | [Slide_link]() |
 | 4/18 | 5 | sizu | セキュリティグループとネットワーク ACL | [Slide_link]() |
+| 4/25 | 6 | mario |  | [Slide link]() |
+| 4/25 | 7 | nanasi |  | [Slide link]() |
 
 ## Committee
 - sizu
